@@ -1,4 +1,4 @@
-# Medical-image-segmentation-by-a-revolutionary-U-NET
+# Medical-image-segmentation-by-an-improved-U-NET
 ## (Implementing a new architecture of U-NET for medical image segmentation)
 ### Medical Images
 The isbi challange dataset is used for segmentation.
